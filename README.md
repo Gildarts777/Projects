@@ -1,6 +1,6 @@
 # Projects
 
-In this github are presented all my university projects. For now there are only the pdfs, in future I will add also the python code correlated.
+This GitHub repository showcases all of my university projects. Currently, it contains only the PDF files, but in the future, I plan to include the corresponding Python code as well.
 
 # Polarization of opinions on social networks
 Abstract:
