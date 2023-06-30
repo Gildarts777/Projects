@@ -26,3 +26,4 @@ Climate change is one of the most important topics in our society and it is also
 
 # Statistical analysis of the Cosmic Microwave Background
 Abstract:
+The Cosmic Microwave Background (CMB) holds significant importance in cosmology, as its statistical analysis enables the determination of various cosmological parameters. This report focuses on a fractal study of the CMB utilizing sign-singular measures. Both Cartesian and gnomonic projections are employed to investigate the properties of the CMB. The fractal analysis uncovers self-similar patterns across different scales, as quantified by the sign-singular measures. Interestingly, the examination reveals no significant differences between from upper and lower portion of the CMB, at least for the analyzed portions of the map.
